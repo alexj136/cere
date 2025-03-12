@@ -2,6 +2,10 @@
 
 CERE is a progamming language I'm working on in order to teach myself MLIR. It is a fork of [toy-mlir](https://github.com/jerinphilip/toy-mlir).
 
+## Install prerequisites
+
+sudo apt install clang lld ccache cmake ninja-build
+
 # toy-mlir
 
 This is an excerpt of the toy-language tutorial MLIR within LLVM. This
