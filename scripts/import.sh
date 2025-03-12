@@ -1,6 +1,6 @@
 #/bin/bash
 
-LLVM_SOURCE=/home/jerin/code/llvm-project/
+LLVM_SOURCE=$HOME/builds/llvm-project/
 
 mkdir -p toy
 

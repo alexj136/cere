@@ -4,7 +4,9 @@ CERE is a progamming language I'm working on in order to teach myself MLIR. It i
 
 ## Install prerequisites
 
+```
 sudo apt install clang lld ccache cmake ninja-build
+```
 
 # toy-mlir
 

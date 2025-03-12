@@ -1,8 +1,8 @@
 #!/bin/bash
 #
 
-MLIR_PATH=/home/jerin/code/llvm-project/build-mlir/bin/
-MLIR_SRC_ROOT=/home/jerin/code/llvm-project/mlir
+MLIR_PATH=$HOME/builds/llvm-project/build-mlir/bin/
+MLIR_SRC_ROOT=$HOME/builds/llvm-project/mlir
 MLIR_INCLUDE_DIR=${MLIR_SRC_ROOT}/include/
 export PATH="$MLIR_PATH:$PATH"
 
